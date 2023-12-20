@@ -9,7 +9,7 @@ npm install nodemon
 npm i react-router-dom
 npm i mongodb
 
-database username: devnov,
-password: Abc123
+database username: harshalcoder711
+password: HarCode711
 npm i jsonwebtoken
 npm i bcrypt
